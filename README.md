@@ -21,7 +21,8 @@ Este repositorio contiene los programas en lenguaje ensamblador MIPS desarrollad
 Cada programa cuenta con:  
 - Captura **antes de compilar**.  
 - Captura **después de compilar**.  
-- Captura **después de ejecutar**.  
+- Captura **después de ejecutar**.
+- Explicación del código.  
 
 ## Autor:
 
