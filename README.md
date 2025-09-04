@@ -4,9 +4,9 @@ Este repositorio contiene los programas en lenguaje ensamblador MIPS desarrollad
 
 ## Contenido del repositorio:
 
-- `ApellidoNombre_Mayor.asm` → Programa que permite ingresar entre 3 y 5 números y determina el **mayor** de ellos.  
-- `ApellidoNombre_Menor.asm` → Programa que permite ingresar entre 3 y 5 números y determina el **menor** de ellos.  
-- `ApellidoNombre_Fibonacci.asm` → Programa que genera una **serie Fibonacci** de longitud indicada por el usuario y calcula la suma de sus elementos.  
+- `DeMendozaTovarAlejandro_Mayor.asm` → Programa que permite ingresar entre 3 y 5 números y determina el **mayor** de ellos.  
+- `DeMendozaTovarAlejandro_Menor.asm` → Programa que permite ingresar entre 3 y 5 números y determina el **menor** de ellos.  
+- `DeMendozaTovarAlejandro_Fibonacci.asm` → Programa que genera una **serie Fibonacci** de longitud indicada por el usuario y calcula la suma de sus elementos.  
 
 ## Ejecución de los programas:
 
