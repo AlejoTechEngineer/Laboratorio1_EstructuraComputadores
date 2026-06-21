@@ -1,6 +1,6 @@
 <div align="center">
 
-# Laboratorio 1 - Estructura de Computadores
+# Programa Lenguaje Ensamblador - MARS - Estructura de Computadores -Simulación Y Optimización de un Programa en un Procesador Escalar Segmentado
 
 </div>
 
