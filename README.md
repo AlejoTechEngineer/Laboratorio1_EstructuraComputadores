@@ -1,4 +1,10 @@
+<div align="center">
+
 # Laboratorio 1 - Estructura de Computadores
+
+</div>
+
+---
 
 Este repositorio contiene los programas en lenguaje ensamblador MIPS desarrollados en **MARS (MIPS Assembler and Runtime Simulator)** para el **Laboratorio #1: Simulación y optimización de un programa en un procesador escalar segmentado**.
 
@@ -31,4 +37,3 @@ Este laboratorio fue desarrollado en el marco de la asignatura **Estructura de C
 - ***Alejandro De Mendoza*** – [Perfil GitHub](https://github.com/AlejoTechEngineer)  
 
 ---
-
